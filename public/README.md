@@ -1,0 +1,1 @@
+Struktura dla plików statycznych
